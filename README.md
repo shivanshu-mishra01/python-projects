@@ -48,35 +48,6 @@ The project was built to strengthen core Python programming concepts such as OOP
 
 ---
 
-## 📂 Project Structure
-
-```text
-Bank-Management-System/
-│── main.py
-│── accounts.json
-│── README.md
-```
-
----
-
-## 🚀 How to Run
-
-1. Clone this repository.
-
-```bash
-git clone https://github.com/<your-github-username>/Bank-Management-System.git
-```
-
-2. Open the project folder.
-
-3. Run the program.
-
-```bash
-python main.py
-```
-
----
-
 ## 💻 Sample Workflow
 
 ### Main Menu
@@ -128,4 +99,4 @@ While developing this project, I practiced:
 
 **Shivanshu Mishra**
 
-B.Tech CSE Student | Aspiring Data Scientist
+
