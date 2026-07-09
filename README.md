@@ -11,7 +11,7 @@ This repository contains the Python projects I have built while learning Python 
 | Project                      | Description                                                                                                      | Status         |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------- |
 | 🏦 Bank Management System    | Console-based banking application with multiple accounts, JSON storage, transaction history, and PIN management. | ✅ Completed    |
-| 📚 Library Management System | Manage books, borrowing, returning, and inventory using Python and JSON.                                         | 🚧 In Progress |
+| 📚 Library Management System | Manage books, borrowing, returning, and inventory using Python and JSON.                                         | ✅ Completed |
 | 🎓 Student Management System | Manage student records, marks, grades, and reports.                                                              | ⏳ Planned      |
 | 💰 Expense Tracker           | Track daily expenses and generate reports.                                                                       | ⏳ Planned      |
 | ✅ To-Do List Application     | Simple task management application.                                                                              | ⏳ Planned      |
